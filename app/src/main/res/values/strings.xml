@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="options">
+        <item>Rums</item>
+
+        <item>Tequilas</item>
+
+        <item>Vodkas</item>
+    </string-array>
+</resources>
